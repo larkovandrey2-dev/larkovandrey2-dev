@@ -1,16 +1,25 @@
-## Hi there 👋
+# Andrey Larkov
 
-<!--
-**larkovandrey2-dev/larkovandrey2-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer interested in **backend, ML and LLM systems**.
 
-Here are some ideas to get you started:
+I build backend services, AI-powered applications and small ML projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `Pandas` `scikit-learn`
+
+Currently learning more about **machine learning, NLP, LLMs and RAG**.
+
+### Projects
+
+**[EEMA](https://github.com/larkovandrey2-dev/EEMA)** — course recommendation system with FastAPI, embeddings, RAG and personalization.
+
+**[EEVA](https://github.com/larkovandrey2-dev/EEVA)** — hackathon recommendation system for PSB using clustering, Markov chains and YandexGPT.
+
+**[Lead Radar](https://github.com/larkovandrey2-dev/freelance-radar)** — lead monitoring and scoring system with Python, PostgreSQL, Docker and LLM analysis.
+
+**[MISE Booking API](https://github.com/larkovandrey2-dev/mise-test)** — REST API built with FastAPI, async SQLAlchemy, Alembic and pytest.
+
+---
+
+Student at Moscow Aviation Institute.
